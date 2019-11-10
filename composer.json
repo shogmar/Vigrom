@@ -5,13 +5,24 @@
         "php": "^7.1.3",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "florianv/swap-bundle": "^4.1",
+        "friendsofsymfony/rest-bundle": "^2.5",
+        "jms/serializer-bundle": "^3.4",
+        "nyholm/psr7": "^1.2",
+        "ramsey/uuid": "^3.8",
         "symfony/console": "4.3.*",
         "symfony/dotenv": "4.3.*",
         "symfony/flex": "^1.3.1",
         "symfony/framework-bundle": "4.3.*",
+        "symfony/intl": "4.3.*",
+        "symfony/maker-bundle": "^1.13",
+        "symfony/orm-pack": "^1.0",
+        "symfony/validator": "4.3.*",
         "symfony/yaml": "4.3.*"
     },
     "require-dev": {
+        "doctrine/doctrine-fixtures-bundle": "^3.2",
+        "symfony/var-dumper": "4.3.*"
     },
     "config": {
         "preferred-install": {

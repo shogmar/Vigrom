@@ -1,0 +1,32 @@
+florianv_swap:
+    providers:
+        fixer:
+            access_key: af0f23b79ba5b0f253a7704edf246ed9             # Fixer
+        #currency_layer:                    # currencylayer
+            #access_key: b2d43d2dcbe6c36a1ea08201a81c4692
+            #enterprise: true
+       # webservicex: ~                     # WebserviceX
+        #cryptonator: ~                     # Cryptonator
+        #forge:                             # Forge
+           #api_key: secret    
+        russian_central_bank: ~            # Russian Central Bank
+        #european_central_bank: ~           # European Central Bank
+        #national_bank_of_romania: ~        # National Bank of Romania
+        #central_bank_of_czech_republic: ~  # Central Bank of the Czech Republic
+        #central_bank_of_republic_turkey: ~ # Central Bank of the Republic of Turkey
+        #open_exchange_rates:               # Open Exchange Rates
+            #app_id: secret
+            #enterprise: true
+        #xignite:                           # Xignite
+            #token: secret
+        #currency_converter:                # Currency Converter API
+            #access_key: 84984dd9844bfafd4e75
+            #enterprise: true
+        #array:
+            #rates:
+                    #'EUR/GBP': 1.5
+                    #'EUR/USD': 1.1
+            #historicalRates:
+                    #'2017-01-01':
+                        #'EUR/GBP': 1.5
+                        #'EUR/USD': 1.1
